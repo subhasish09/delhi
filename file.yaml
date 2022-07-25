@@ -7,3 +7,11 @@ devops_assignmemt: m2-case-study-1
    develop
    feature
   codefile: file.yaml
+  pushmap:
+   updates:
+    feature-to-develop
+    develop-to-release
+    release-to-master
+   bugfix:
+    master-to-hotfix
+    hotfix-to-master
