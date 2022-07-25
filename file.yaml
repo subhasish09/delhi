@@ -1,0 +1,9 @@
+devops_assignmemt: m2-case-study-1
+ gitrepo: delhi
+  branches: 
+   master
+   hotfix
+   release
+   develop
+   feature
+  codefile: file.yaml
